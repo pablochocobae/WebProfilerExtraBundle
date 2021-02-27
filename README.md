@@ -5,13 +5,13 @@ Elao WebProfilerExtraBundle
 
 
 
-## What is this Symfony2 bundle for ?
+## What is this Symfony2 bundle for?
 
 It adds in your WebProfiler extra sections :
 
-+ **Routing** : Lists all the routes connected to your application
-+ **Container** : Lists all the services available in your container
-+ **Twig** : Lists Twig extensions, tests, filters and functions available for your application
++ **Routing**: Lists all the routes connected to your application
++ **Container**: Lists all the services available in your container
++ **Twig**: Lists Twig extensions, tests, filters, and functions available for your application
 + **Assetic**
 
 ![WebProfilerExtraBundle](screen.png "WebProfilerExtraBundle Screenshot")
